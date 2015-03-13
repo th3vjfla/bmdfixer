@@ -1,0 +1,1 @@
+This tool will autofix your corupted BMD files, with single button click
